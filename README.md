@@ -1,4 +1,4 @@
-# chat-using-socket-io-nod-js-
+# chat-using-socket-io-node-js-
 Improving Chat Application ( Node.js with Socket.io ) - http://socket.io/get-      started/chat/     
 1-  Broadcast a message to connected users when someone connects or disconnects    
 2-  Add support for nicknames   
