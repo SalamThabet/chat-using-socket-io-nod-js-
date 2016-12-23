@@ -1,0 +1,11 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+        "socket.io": "latest"
+    },
+  "author": "salam",
+  "license": "ISC"
+}
